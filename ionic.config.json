@@ -1,0 +1,7 @@
+{
+  "name": "crud_mhs-pert9",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
